@@ -1,4 +1,6 @@
 First line
 Second line
+inserted first line
+inserted second line
 Third line
 Fourth line
