@@ -1,4 +1,3 @@
 First line
 inserted first line
-Third line
-Fourth line
+Fourth line some addition
