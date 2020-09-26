@@ -1,23 +1,10 @@
-section 1:   Answer following questions from current repository
 
-  At commit 4f28985,
-      - How many files edited ?
-      - At file products.txt what was the change made  ?
+section 1: Exercises
 
-  - How many branches were created in this repository ?
+    Step 1: Create a public repo <your_name>_25SEP in github , do following steps after clone it to your local.
+    Step 2: Create a file Answers.txt
+    Step 3: Copy everything from this file into Answers.txt, and add your answers.
 
-
-  - Can you make your repository ignore all any  .jpg  ( i.e, any file ends with .jpg)
-
-
-    - What is the SHA id of tag "V5.1" ?
-    - What is the command to delete tag "V5.0"
-
---------------------------------------------------------------------------
-
-section 2: Exercises
-
-    Create a public repo <your_name>_25SEP in github , do following steps after clone it to your local.
 
 - create a file "fruits.txt" add "Strawberry"  as first line  ( in default master branch) commit
 
@@ -46,6 +33,23 @@ section 2: Exercises
 
 - push the changes
 Include url your repository url here
+
+----------------------------------------------------------------------------------
+
+section 2:   Answer following questions from current repository
+
+  At commit 4f28985,
+      - How many files edited ?
+      - At file products.txt what was the change made  ?
+
+  - How many branches were created in this repository ?
+
+
+  - Can you make your repository ignore all any  .jpg  ( i.e, any file ends with .jpg)
+
+
+    - What is the SHA id of tag "V5.1" ?
+    - What is the command to delete tag "V5.0"
 
 ----------------------------------------------------------------------------------
 section3: Answer following Questions :
